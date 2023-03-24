@@ -25,6 +25,6 @@ int main()
 
 	printf("%d\n", a);
 	printf("%.2f\n", b);
-	print("%.lf", c);
+	printf("%lf", c);
 	return (0);
 }
