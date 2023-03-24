@@ -15,7 +15,12 @@ int main()
 	int a = 5;
 	int b = 5;
 	int sum = a + b;
+	float c = 5.5;
+	float d = 6.5;
+	float cd = c + d;
+
 	printf("%d", sum);
+	printf("%f", cd);
 	return (0);
 }
 {
