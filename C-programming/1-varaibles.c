@@ -14,10 +14,12 @@ int main()
 {
 	int Age = 27;
 	float Height = 5.7;
+	char Grade = 'B';
 	char Name = 'Samuel';
 
 	printf("My Age: %d\n", Age);
 	printf("My Height: %f\n", Height);
+	printf("My Grade: %c\n", Grade);
 	ptintf("My Name: %c", Name);
 	return (0);
 }
