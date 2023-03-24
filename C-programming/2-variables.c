@@ -8,30 +8,28 @@
  * These unique names are called identifiers.
  * Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume)
  * Note: It is recommended to use descriptive names in order to create understandable and maintainable code
+ *
+ * Return 0 Success.
  */
 
 int main()
 {
 	int a = 5;
-	int b = 5;
+	int b = 6;
 	int sum = a + b;
 	float c = 5.5;
 	float d = 6.5;
 	float cd = c + d;
 
-	printf("%d", sum);
-	printf("%f", cd);
-	return (0);
-}
-{
+	printf("Sumab%d\n", sum);
+	printf("Sumcd: %f\n", cd);
+
 	int x = 7, y = 8, z = 10;
-	printf("%d", x + y + z);
-	return (0);
-}
-{
+	printf("Sumxy: %d\n", x + y + z);
+
 	int p, q, r;
 	p = q = r = 20;
-	printf("%d", p + q + r);
+	printf("Sumpqr: %d", p + q + r);
 	return (0);
 }
 
