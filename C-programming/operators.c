@@ -21,10 +21,14 @@
 int main(void)
 {
 	int x = 50 + 70;
+	x += 5;
 	int y = 60 + 40;
+	y -= 50;
 	float z = 45.5 + 65.9;
+	z *= 1.5;
 
 	printf("Value of x: %d\n", x);
 	printf("Value of y: %i\n", y);
 	printf("Value of z: %.2f\n", z);
 
+	printf(	

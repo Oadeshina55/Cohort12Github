@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	printf("My First Program in C\n");
 	printf("I am Learning C");
