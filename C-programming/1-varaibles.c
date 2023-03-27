@@ -10,7 +10,7 @@
  * Return 0 Always.
  */
 
-int main()
+int main(void)
 {
 	int Age = 27;
 	float Height = 5.7;
