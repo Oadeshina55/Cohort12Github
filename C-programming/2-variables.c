@@ -12,7 +12,7 @@
  * Return 0 Success.
  */
 
-int main()
+int main(void)
 {
 	int a = 5;
 	int b = 6;
