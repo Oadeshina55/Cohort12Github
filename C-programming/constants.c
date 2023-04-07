@@ -10,7 +10,7 @@
  * Return 0
  */
 
-int main()
+int main(void)
 {
 	const int MINUTESPERHOUR = 60;
 	const float PI = 3.142;
