@@ -30,5 +30,5 @@ int main(void)
 	printf("Value of x: %d\n", x);
 	printf("Value of y: %i\n", y);
 	printf("Value of z: %.2f\n", z);
-
-	printf("hKCdgdjsVSvDW ,D;AS>R;,E,	
+return (0);
+}
