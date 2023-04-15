@@ -14,13 +14,13 @@
  * Return 0 Success.
  */
 
-int main()
+int main(void)
 {
 	int a = 5;
 	int b = 2;
 	float div = (float) a / b;
 
-	printf("div: %f\n", div);
+	printf("div: %.1f\n", div);
 
 	/*
 	 * And since you learned about "decimal precision" in the previous chapter, you could make the output even cleaner by removing the extra zeros (if you like)
