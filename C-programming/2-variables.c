@@ -21,7 +21,7 @@ int main(void)
 	float d = 6.5;
 	float cd = c + d;
 
-	printf("Sumab%d\n", sum);
+	printf("Sumab: %d\n", sum);
 	printf("Sumcd: %f\n", cd);
 
 	int x = 7, y = 8, z = 10;
