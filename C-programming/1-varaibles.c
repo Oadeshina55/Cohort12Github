@@ -14,7 +14,7 @@ int main()
 {
 	int Age = 27;
 	float Height = 5.7;
-	char Name = 'Samuel';
+	char Name = Samuel;
 
 	printf("My Age: %d\n", Age);
 	printf("My Height: %f\n", Height);
